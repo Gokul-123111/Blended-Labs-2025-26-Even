@@ -1,5 +1,10 @@
 # Lab 1 - Introduction to AWS Identity and Access Management (IAM)
 
+## Author
+**Name:** Gokul S <br> 
+**Reg No.:** 212224240044<br>
+**Course:** Introduction to Cloud Computing  
+
 ## Title
 Introduction to AWS Identity and Access Management (IAM)
 
@@ -28,31 +33,24 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 - Explored IAM groups: EC2-Admin, EC2-Support, S3-Support  
 - Inspected managed and inline policies attached to groups  
 **Screenshot:**  
-(Add screenshot here)
+<img width="1896" height="887" alt="548649194-ad3b887c-1eb8-42eb-847d-2a53b9ecf5ff" src="https://github.com/user-attachments/assets/6fa47678-53a4-4617-922c-2e37737462bc" />
+
 
 ### Task 2: Add Users to Groups
 - Added user-1 to the S3-Support group  
 - Added user-2 to the EC2-Support group  
 - Added user-3 to the EC2-Admin group  
 **Screenshot:**  
-(Add screenshot here)
+<img width="1918" height="930" alt="548649408-537856be-9c32-4b81-90c8-798376894d32" src="https://github.com/user-attachments/assets/db62c472-8e3c-44c8-bc1e-8d64ef8bfc85" />
+
 
 ### Task 3: Test IAM User Permissions
 - Logged in using IAM sign-in URL  
 - Verified S3 access for user-1  
 - Verified EC2 read-only access for user-2  
-- Verified EC2 administrative access for user-3
-
-  
+- Verified EC2 administrative access for user-3  
 **Screenshot:**  
-
-
-<img width="1006" height="532" alt="image" src="https://github.com/user-attachments/assets/d0c06328-e915-419c-bbe6-20be1f1a62db" />
-
-
-
-<img width="987" height="454" alt="image" src="https://github.com/user-attachments/assets/562e3ad2-b4c9-47c4-8b13-4a3ab00cfe9b" />
-
+<img width="1919" height="1079" alt="548649611-612263b2-f16a-4e1b-8d19-06cb8765cf9d" src="https://github.com/user-attachments/assets/771afc8d-3c7b-4cd3-92d2-5db2c38f7a69" />
 
 
 
@@ -74,10 +72,4 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 ## Conclusion
 This lab provided hands-on experience with AWS IAM by demonstrating how organizations manage secure access to cloud resources. Assigning users to groups with predefined policies simplified permission management and ensured role-based access control across AWS services.
 
-
-## Author
-**Name:** Gokul S (212224240044)
-
-
-**Course:** Introduction to Cloud Computing  
 
